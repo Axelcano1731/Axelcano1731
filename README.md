@@ -1,11 +1,13 @@
 <h1 align="left">Hola 👋 ¡Soy Axel Cano!</h1>
-<p align="left">🎯 Soy desarrollador apasionado por la tecnología, desde Colombia. Me encanta crear, aprender y compartir contenido técnico con el mundo.</p>
+<p align="left">🍓 Soy desarrollador apasionado por la tecnología, desde Colombia. Me encanta crear, aprender y compartir contenido técnico con el mundo.</p>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" />
 
 ---
 
 ## 🚀 Tech Stack
+<hr style="width: 200px; text-align: left; margin-left: 0;">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
