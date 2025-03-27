@@ -1,5 +1,7 @@
 <h1 align="left">Hola 👋 ¡Soy Axel Cano!</h1>
-<p align="left">🎯 Desarrollador apasionado por la tecnología, desde Colombia.</p>
+<p align="left">🎯 Soy desarrollador apasionado por la tecnología, desde Colombia. Me encanta crear, aprender y compartir contenido técnico con el mundo.</p>
+
+<img align="right" height="150" src="https://media2.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" />
 
 ---
 
@@ -10,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
 </div>
 
 ---
@@ -33,20 +35,18 @@
 
 ---
 
-## 🌐 Proyectos
+## 🌐 Proyecto Destacado
 
-- 🔗 [ISPWatch](https://ispwatch.vercel.app/) — Plataforma para gestión de ISPs
+- 🔗 [ISPWatch](https://ispwatch.vercel.app/) — Plataforma para gestión y monitoreo de ISPs
 
 ---
 
-## 📬 Contacto
+## 📬 Conecta conmigo
 
 <div align="left">
-  <a href="https://www.youtube.com/@axelcano" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitch.tv" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/axelcano/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.tiktok.com/@axelprogram" target="_blank"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/axel-cano-andrade-36a33729a/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:axelcano1711@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 ---
