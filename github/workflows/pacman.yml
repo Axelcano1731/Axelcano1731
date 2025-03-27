@@ -1,0 +1,26 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Axelcano1731
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Push generated SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Axel Cano
+          author_email: axelcano1711@gmail.com
+          message: "generate pacman contribution graph"
+          add: "output/*.svg"
