@@ -1,12 +1,19 @@
-<h1 align="left">Hola 👋 ¡Soy Axel Cano!</h1>
-<p align="left">🍓 Soy desarrollador apasionado por la tecnología, desde Colombia. Me encanta crear, aprender y compartir contenido técnico con el mundo.</p>
-
-<img align="right" height="150" src="https://media2.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" />
+<!-- Encabezado con GIF a la derecha -->
+<table>
+  <tr>
+    <td>
+      <h1>Hola 👋 ¡Soy Axel Cano!</h1>
+      <p>🍓 Soy desarrollador apasionado por la tecnología, desde Colombia. Me encanta crear, aprender y compartir contenido técnico con el mundo.</p>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" height="120" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Tech Stack
-<hr style="width: 200px; text-align: left; margin-left: 0;">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -23,6 +30,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axelcano1731&layout=compact&theme=dracula" height="150" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Axelcano1731&theme=dracula&hide_border=true" height="150" />
 </div>
 
 ---
@@ -45,7 +54,7 @@
 
 ## 📬 Conecta conmigo
 
-<div align="left">
+<div align="center">
   <a href="https://www.tiktok.com/@axelprogram" target="_blank"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/axel-cano-andrade-36a33729a/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:axelcano1711@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
